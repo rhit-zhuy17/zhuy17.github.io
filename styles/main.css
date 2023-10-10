@@ -102,6 +102,7 @@ body > * {
 
 body > header {
     grid-area: head;
+    white-space: nowrap;
 }
 
 body > nav {
@@ -113,6 +114,7 @@ body > nav ul {
     padding: 0;
     margin: 0;
     line-height: 6;
+    white-space: nowrap;
 }
 
 body > nav ul li {
